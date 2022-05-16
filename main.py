@@ -1,1 +1,1 @@
-import task_2_6
+import task_2_7
