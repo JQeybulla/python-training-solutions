@@ -1,0 +1,1 @@
+import task_2_5
