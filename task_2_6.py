@@ -17,6 +17,6 @@ for i in line:
 for i in ls:
     if i == " ":
         words += 1
-if ls [-1] == " ":
+if ls[-1] == " ":
     words -= 1
 print("Tapilmis sozlerin sayi: ", words)
